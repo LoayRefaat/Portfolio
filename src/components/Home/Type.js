@@ -10,7 +10,7 @@ function Type() {
           "interested in STEM subjects",
           "Looking forward to study biology-related major",
           "fascinated with different kind of art",
-          "Cyclist, Depater, and most importantly"
+          "Cyclist, Depater, and most importantly",
           "active community service volunteer"
         ],
         autoStart: true,
